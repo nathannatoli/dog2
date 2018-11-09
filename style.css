@@ -1,0 +1,12 @@
+html, body{
+	height:100%;
+}
+body{
+	background: #303030;
+	vertical-align: middle;
+}
+iframe{
+	margin-top: 12px;
+	margin-left: 10px;
+
+}
